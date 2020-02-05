@@ -1,0 +1,5 @@
+github.com/kizzie/go-teampasswordmanager v0.0.0-20200121142605-ef89c8c71a49 h1:pvIs2lwPt0quEdgjYRbm0zjjjD1kcXJxi8aj8BKp5m8=
+github.com/kizzie/go-teampasswordmanager/teampasswordmanager v0.0.0-20200121142605-ef89c8c71a49 h1:I1/JiajUgHpVLEsWGhg5BK+sHEyNKovRJOFqgwP19tw=
+github.com/kizzie/go-teampasswordmanager/teampasswordmanager v0.0.0-20200121142605-ef89c8c71a49/go.mod h1:lOXf6LdhNxkgZdwfNXPDoP091yJf6SowJUJfm++nHAg=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 h1:VpOs+IwYnYBaFnrNAeB8UUWtL3vEUnzSCL1nVjPhqrw=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=
